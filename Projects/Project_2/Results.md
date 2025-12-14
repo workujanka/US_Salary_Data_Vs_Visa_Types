@@ -23,9 +23,10 @@ This part focuses on analyzing salary data in relation to visa categories using 
 - The difference between **population standard deviation** and **sample standard deviation** was also explored.
 
 ---
- <p align="center">
-  <img src="Charts/Job_Title_Vs_Median_Paid_Wage_Per_Year.png" width="600" height="600"/>
+<p align="center">
+  <img src="charts/Danish_Manufacturing_Industries_Yearly_Total_Turn_Over_2000-2023.png" width="80%" height="80%">
 </p>
+
 
 ## Result and Analysis
 
