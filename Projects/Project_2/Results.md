@@ -44,5 +44,5 @@ This visualization highlights the intersection of immigration status and compens
 
   ### Screenshot From The Project's Tableau Dashboard
 <p align="center">
-  <img src="Charts/Analyzing_Salary_Data_by_Visa_Category3.png" width="110%" height="110%">
+  <img src="Charts/Analyzing_Salary_Data_by_Visa_Category4.png" width="110%" height="110%">
 </p>
