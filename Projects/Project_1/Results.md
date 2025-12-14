@@ -46,7 +46,7 @@ This visualization helps users quickly identify which professions offer higher f
 
   ## INDEX
 
-  ### Screenshot From The Project's Tableau Dashboard
+  ### The following picture is taken directly from the Tableau dashboard used in this project. It highlights how different job titles and visa categories relate to salary trends between 2008 and 2015.
 <p align="center">
   <img src="Charts/Job_Title_Vs_Median_Paid_Wage_Per_Year(2008_2015).png" width="110%" height="110%">
 </p>
